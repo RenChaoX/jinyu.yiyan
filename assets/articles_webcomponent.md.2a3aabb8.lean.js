@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.0885ab63.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/webcomponent.md"}'),a={name:"articles/webcomponent.md"};function n(c,r,s,p,i,m){return o(),t("div")}const l=e(a,[["render",n]]);export{d as __pageData,l as default};
